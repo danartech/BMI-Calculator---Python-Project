@@ -29,8 +29,8 @@ This project involves creating a BMI (Body Mass Index) calculator using Python. 
 
 ## Access the Files
 You can download the Jupyter notebook and related documents directly from the repository:
-- [Download BMI Calculator Notebook](https://github.com/danartech/BMI-Calculator_Python-Project/blob/main/BMI_Calculator.ipynb)
-- [Download BMI Calculator Screenshot](https://github.com/danartech/BMI-Calculator_Python-Project/blob/main/BMI_Calculator_Screenshot.png)
+- [Download BMI Calculator Notebook](https://github.com/danartech/BMI-Calculator_Python-Project/blob/main/BMI%20Calculator.ipynb)
+- [Download BMI Calculator Screenshot](https://github.com/danartech/BMI-Calculator_Python-Project/blob/main/BMI%20Calculator%20Screenshot.png)
 
 ## Additional Resources
 - [YouTube Tutorial: Building a BMI Calculator with Python](https://www.youtube.com/watch?v=dGcsHMXbSOA): A tutorial series that guided the creation of this project.
