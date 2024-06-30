@@ -32,9 +32,6 @@ You can download the Jupyter notebook and related documents directly from the re
 - [Download BMI Calculator Notebook](https://github.com/danartech/BMI-Calculator_Python-Project/blob/main/BMI%20Calculator.ipynb)
 - [Download BMI Calculator Screenshot](https://github.com/danartech/BMI-Calculator_Python-Project/blob/main/BMI%20Calculator%20Screenshot.png)
 
-## Additional Resources
-- [YouTube Tutorial: Building a BMI Calculator with Python](https://www.youtube.com/watch?v=dGcsHMXbSOA): A tutorial series that guided the creation of this project.
-
 ## Contact Me
 - **Email**: [danarfintech@gmail.com](mailto:danarfintech@gmail.com)
 - **LinkedIn**: [Dana Robinson](https://www.linkedin.com/in/dana-robinson-acct)
